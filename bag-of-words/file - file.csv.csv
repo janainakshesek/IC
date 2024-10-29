@@ -1,0 +1,221 @@
+2020,2021,2022,2023
+Web,Network Security,Network Protocols,Software Security 1
+Fuzzing,Program Analysis 1,Smartphones,ML and AI 1
+Censorship,Privacy,Cybercrime and Forensics,Privacy and Anonimity 1
+Smart Home,Network Policies,IoT and Networks,Software Security 2
+Mobile & Smartphone Security,Program Analysis 2,Fuzzing,ML and AI 2
+Blockchains and MPC,Crypto,ML and AI 1,Privacy and Anonimity 2
+Future Networks,Web Security,Web Security,Fuzzing
+Software Defenses,Mobile Security,Runtime Defenses,ML and AI 3
+Network Crime and Privacy,Blockchains,Cyber-physical systems,Network Protocols
+Side Channels,Network Protocols,Wireless,Blockchains 1
+Network Defenses,Side-Channels and Speculation,Secure Computing,Mobile Security and Privacy
+Oblivious Computation,Malware and Cybercrime,ML and AI 2,Trustworthy Computing
+Network Attacks,Smart Home,Special Problems and Use Cases,Blockchains 2
+Program Analysis,Software Defenses,Cloud and Edge Computing,Keys and Certification
+Malware 1,Machine Learning,Attacks on ML/AI,Cyber-physical systems security 1
+Private Computation and Learning,Fuzzing,Privacy and Anonimity,Web Security 1
+Malware 2,Embedded Security,Kernel Secuirty,Cyber-crime and Forensics
+Authentication,Federated Learning and Poisoning Attacks,Keys and Authentication,Cyber-physical systems security 2
+Case Studies and Human Factors,Forensics and Audits,Blockchains,Web Security 2
+Crypto,Trusted Computing,Software Components and Interactions,Cyber Attacks
+Hardware & Speculative Attacks,Machine Learning Applications,Human Factors,Cloud and Edge Computing
+Privacy,Web Security 1: Cybercrime,Applied Crypto: Digital Signatures,Web Security 3
+Anonymous Routing and Censorship,Machine Learning and Security 1,Applied Crypto: Digital Currencies & Blockchains,Usable Security and Privacy
+Attacking and Defending ML Systems,Applied Crypto 1,HW & CPS: CPS and IoT,Cryptography for Anonymity
+Binary Analysis/Policy and Access Control,Usability and Measurement 1,ML: Poisoning and Backdooring ML,Machine Learning Applications I
+Applied Cryptography and Cryptanalysis,Software Security 1: Fuzzing and Bug Finding,Software Security: Fuzzing,Attacks & Threats
+Cyberphysical Systems,Formal Methods and PL 1: Formal Analysis and Verification,Web Security: Client Side Security,Usable Privacy
+ML and Information Leakage,Machine Learning and Security 2: Defenses for ML Robustness,HW & CPS: Attacks and Defense,Side-channels
+Applied Cryptography,Applied Crypto 2: Secure Multiparty Computation,ML: ML for Network Security,Crypto and DNS Mess
+Browser Security,"Hardware, Side Channels, and CPS 1: Side Channels",Applied Crypto: Zero-Knowledge 1,Digital Signatures
+Mobile Security,Blockchain and Distributed Systems 1,Software Security: Analysis,Machine Learning Applications II
+Smart Contracts and Cryptocurrencies,Software Security 2: Operating Systems,Web Security: Server-Side Security,Consensus Protocols
+Privacy,Privacy and Anonymity 1,ML: Inference Attacks to ML,Language-based security
+Malware,Network Security 1: DoS,ML: Inference Attacks to ML,Quantum & Space
+Consensus,"Network Security 2: Wireless, Mobile, and IoT",Web Security: Users Under Attack,"IoT: attacks, vulnerabilities, and everything"
+Formal Methods,Applied Crypto 3,Priv & Anon: Secure Query Answering,Homomorphic Encryption I
+Fuzzing/Trusted Execution Environments,Privacy and Anonymity 1: Differential Privacy,Applied Crypto: Cryptographic Protocols,Machine Learning Attacks I
+Binary Analysis/Policy and Access Control,"Hardware, Side Channels, and CPS 2: Control System Security",Software Security: Information Leakage and Access Control,Cryptographic constructs & Models
+Post-Quantum Cryptography,Blockchain and Distributed Systems 2,ML: Federated Learning Security,Defenses
+Physical Attacks,Machine Learning and Security 3: Privacy Attacks and Defenses for ML,Web Security: The C in Web Stands for Crypto,Secure Hardware
+Kernel Security,Network Security 3: PKI and Access Control,Priv & Anon: Ads and Location Privacy,Traffic Analysis
+Distributed Protocols,Web Security 2: Web Vulnerabilities,Software Security: Hardware-Assisted Defense,Advanced Public Key Encryption
+Network Security,Software Security 4: Fuzzing,Web Security: The C in Web Stands for Crypto,Machine Learning Attacks II
+Cyberphysical Systems,Applied Crypto 4: Messaging and Privacy,Priv & Anon: Ads and Location Privacy,Defenses & Smart cotnract security
+User Authentication,"Hardware, Side Channels, and CPS 3: Audio Systems and Autonomous Driving",Software Security: Hardware-Assisted Defense,Fuzzing I (approaches)
+Secure Messaging and Key Exchange,Applied Crypto 6: Database and Privacy,ML: Attacks to ML,IoT & embedded security
+Forensics,Software Security 3: Misc: Android and Vulnerabilities,Applied Crypto: Advanced Public-Key Encryption Schemes,Formal analysis of Cryptographic protocols
+Secure Computation,Applied Crypto 5: Authentication and Privacy,"Priv & Anon: Online, Mobile and Multimedia Privacy",Zero Knowledge Proofs
+Infrastructure Security,Privacy and Anonymity 3: Privacy for Distributed Data and Federated Learning,Blockchain and Distributed Systems,Federated Learning
+Signatures,"Software Security 5: Crypto, Symbols and Obfuscation",Software Security: Vulnerability Detection,Interoperability & 2nd layer solutions
+Exploitation and Defenses,Formal Methods and PL 2: Crypto and Protocol Security,ML: Adversarial Examples in ML,Fuzzing II (targets)
+Side Channels,Applied Crypto 7: Foundations,"Priv & Anon: Online, Mobile and Multimedia Privacy",Crypto & side-channels
+Web Security,Privacy and Anonymity 4: Applied Privacy,ML: Adversarial Examples in ML,Information flow and differential privacy
+Zero Knowledge,"Hardware, Side Channels, and CPS 4: Attestation and Firmware Security",Software Security: Vulnerability Detection,Cryptography for Blockchains
+Applied Cryptography,Applied Crypto 8: Zero Knowledge II,Blockchain and Distributed Systems,Language Models & Verification
+Microarchitectural Security,Usability and Measurement 2: Software Development and Analysis,Applied Crypto: Key-Exchange,Differential Privacy
+Blockchain I,Machine Learning and Security 4: Data Poisoning and Backdoor Attacks in ML,HW & CPS: Aspects of Masking,Kernel & Syscalls
+Anonymity and Censorship,Machine Learning and Security 5: Applications and Privacy of ML,Priv & Anon: Privacy Attacks in ML,Speculative execution & information flow
+Sensors and Emanations,Software Security 6: Analyzing Crashes and Incidents,Blockchain and Distributed Systems,Verified Cryptographic Implementations
+Authentication,Network Security 4: Traffic Analysis and Side Channels,Priv & Anon: Privacy Attacks in ML,Multiparty Computation I
+Machine Learning and Privacy,Blockchain and Distributed Systems 3: Decentralized Cryptographic Protocols,Applied Crypto: Zero-Knowledge 2,Network Security
+Differential Privacy,Software Security I,HW & CPS: Side Channels: Defences,Privacy in Computation
+Internet of Things,Mobile Security I,FM & PL: Hardware Security,Medley
+Wireless Protocols,Adversarial Machine Learning and Unlearning,Network Security: Internet Security,Measuring Security Deployments
+Memory Safety,Crypto Protocols,Priv & Anon: Privacy Preserving ML,Attacking the web
+Computing and Society,Cyber Risk and Abuse,FM & PL: Security Protocols,Multiparty Computation II
+Multiparty Computation,Security of Autonomous Vehicles,HW & CPS: Side Channels,"ML, Cryptography, and Cyber-physical systems"
+Web Privacy,Hardware Attacks,Network Security: Cloud and IoT Security,Privacy in Machine Learning
+Rowhammer,Privacy,HW & CPS: Side Channels,Program Analysis & Instrumentation
+Blockchain II,Crypto Currencies 1,Network Security: Cloud and IoT Security,Security Professionals
+Formal Verification,Distributed Cryptography,Blockchain and distributed systems,Defending the web
+Android and iOS,Formal Verification of Protocols,Applied Crypto: Secure Multiparty Computation,Cryptographic Protocols
+Attacks and Forensics,IoT Security and Privacy,Priv & Anon: Federated Analytics and Learning,Homomorphic Encryption II
+Cryptanalysis and Side Channels,Cryptography 1,Usability & Measurement: Finding Violations,Privacy in Systems
+Adversarial Machine Learning,Attacks on Speech Systems,HW & CPS: Side Channels: Hardware and Microarchitecture,Attacks & Malware
+New Directions and Settings,Fuzzing,Network Security: Network Vulnerabilities,Usable Authentication
+TEEs and Attestation,Software Security 2,Usability & Measurement: Attacks,Measuring the web
+Program Analysis,Differential Privacy,Priv & Anon: Differential Privacy,Security of Cryptographic Protocols and Implementations
+Fuzzing,Crypto Currencies 2,Usability & Measurement: Attacks,Oblivious Algorithms and Data Structures
+Analysis of Smart Contracts,Secure Multiparty Computation and Homomorphic Encryption,Network Security: Network Vulnerabilities,Privacy in the Digital World
+Hardware Security,HW Security,Priv & Anon: Differential Privacy,Measuring ML & Software Security
+Wireless Security,ML Security and Privacy,Applied Crypto: Secure Multiparty Computation & Private-Set Intersection,Tracking the web
+Human Factors,Web Security 1,Applied Crypto: Symmetric-Key Encryption and Attacks,Infrastructure security
+Software Security and Verification,Network Security,Usability & Measurement: Security and Privacy Practices,Blockchain 1
+Mobile 1,Smart Contracts,Software Security: Defenses and Virtualization-Based Security,Cryptographic attacks
+"Phishing, Spam, and Threat Intelligence","Authentication, Identity and Access Control",Priv & Anon: Privacy in Graphs,Trust and safety
+Trusted Execution Environments 1,Vulnerabilities,Fuzzing I,Machine learning privacy
+Network Security,Wireless and Electromagnetic Channels,Formal Analysis I,Authentication
+Web Security and Privacy,Crypto Applications and Attacks,Verification for Security,Machine learning backdoors
+Trusted Execution Environments 2,Web Attacks,Blockchain Security I,Cryptographic protocols
+Automotive and Drone Security,Program Security and Cyber-Physical Systems,Formal Analysis II,Biometric security
+Privacy Enhancing Technologies,Malware and Attacks,Smart Homes and Virtual Reality,Web security
+Software Security,Mobile Security 2,Trusted Execution Environments,Cryptographic proof techniques
+Embedded/IoT Security,Signature Schemes,Differential Privacy,Software security
+Machine Learning 1,Anonymity in Crypto Currencies,Attack Investigations,Machine learning assurance
+Microarchitectural Attacks,Web Security 2,Crypto Implementations,Applied cryptography
+Fiancial Tech and Voting,Formal Methods in the Real World,Spectre and Rowhammer,Software supply chains
+Machine Learning 2,Cryptography 2,Applications of Machine Learning,ML attacks
+Systems Security,HW Side Channels and Defenses,Usability Aspects I,Rowhammer and spectre
+Analysis of Crypto,Dynamic Analysis,Privacy Applications I,Physical channel attacks
+Specific User Populations,Usability: Authentication,Authentication and Fingerprinting,ML Security and Privacy
+Side Channel Attacks,Cryptography: Attacks,Software Security I,Human factors
+Implementations of Crypto,Embedded Security & SW Sec,Poisoning and Model Stealing Attacks,Low-level software security
+Authentication,Usable Security and Privacy: User Perspectives,Wireless Security,Privacy and covert channels
+Fuzzing 1,"Cryptographic Proof Systems, Analysis, and Applications",Blockchain Security II,Side-channel attacks
+Mogile 2 and Malware,Hardware Side Channel Attacks,Machine Learning Attacks I,Model-based software security
+Data Security/Secure Computation,Permissions and Passwords,Side-Channel Attacks,Blockchain 2
+Fuzzing 2,Private Computation and Differential Privacy,Web Security,Malware and malicious sites
+Voice and Speech,Hardware Security,Embedded Security,Fuzzing
+Blockchains,Usable Security and Privacy: Institutional Perspectives,Physical Layer Security,Web security
+Caracterização e medição de segurança,Cryptocurrencies and Smart Contracts,Auditing and Vulnerability Analysis,Human factors 2
+"Controle de acesso, autenticação, biometria, confiança e gestão de identidades",Hardware Side Channel Defenses,Usability Aspects II and ML Attacks,Software isolation
+Algoritmos de Criptografia,Machine Learning: Backdoor and Poisoning,Privacy,IoT Security
+Segurança de sistemas operacionais,Program Analysis,Machine Learning Attacks II,Network security
+Segurança em ambientes de computação em nuvem,Privacy Enhancing Technologies,Software Security II,Bug Finding
+Protocolos e Aplicações em Criptografia,Machine Learning: Adversarial Examples and Model Extraction,Measurement Studies I,Election and device recycling security
+"Segurança em Internet das Coisas, sensores e sistemas embarcados",Automated Security Analysis of Source Code and Binaries,Fuzzing II,Physical channels 2
+"Intrusão: detecção, prevenção e resposta",Secure Multiparty Computation,Formal Method Applications,Breaking Wireless Protocols
+Criptoanálise,Adversarial Machine Learning: Defenses,Usable Security,Interpersonal Abuse
+Segurança de aplicações,Operating Systems Security,Measurement Studies II and IoT Security,Inferring User Details
+"Forense Computacional, Auditora e Análise de Riscos",Web Security 1; Software Security,Privacy Applications II,Adversarial ML beyond ML
+Segurança em redes de computadores,Machine Learning: Privacy Issues,Key Distribution,Private Set Operations
+,Fuzzing,Measurement I: Network,Logs and Auditing
+,Web Security 2,Kernel Security,Fighting the Robots
+,Forensics and Diagnostics for Security and Voting,Web Security I: Vulnerabilities,Perspectives and Incentives
+,Internet and Network Security,Crypto I: Attacking Implementations,Traffic Analysis
+,Attacks,User Studies I: At-Risk Users,Adversarial Patches and Images
+,Research on Surveillance and Censorship,Software Vulnerabilities,Decentralized Finance
+,Malware and Program Analysis 1,Network Security I: Scanning & Censorship,Memory
+,Mobile System Security and Privacy,Differential Privacy,Security in Digital Realities
+,Phishing and the Malicious Web,Measurement II: Auditing & Best Practices,Password Guessing
+,DDOS; Wireless Security,Side Channels I: Hardware,"Privacy Policies, Labels, Etc."
+,Cryptography and the Cloud,Web Security II: Fingerprinting,ML Applications to Malware
+,"Measurements of Fraud, Malware, Spam, and Other Abuse",Crypto II: Performance Improvements,Secure Messaging
+,IoT; Specialty Networking,User Studies II: Sharing,x-Fuzz
+,TLS,Hardware Security I: Attacks & Defenses,"Programs, Code, and Binaries"
+,"Controle de Acesso, Autenticação e Gestão de Identidades",Fuzzing I: Networks,IoT Security Expectations and Barriers
+,Segurança em IoT e Sistemas Operacionais,Smart Homes I,Differential Privacy
+,Detecção de Intrusão e Ataques*,Measurement III,Poisoning
+,Criptografia,Fuzzing II: Low-Level,Smart Contracts
+,Detecção de Intrusão e Ataques*,Wireless Security,x-Fuzz and Fuzz-x
+,"Forense Computacional, Auditoria e Análise de Riscos",ML I: Federated Learning,Cache Attacks
+,Detecção de Intrusão e Ataques*,Deanonymization,Authentication
+,Blockchains,Mobile Security,Private Data Leaks
+,Segurança em Redes de Computadores,Web Security III: Bots & Authentication,Generative AI
+,,Crypto III: Private Matching & Lookups,Security Worker Perspectives
+,,Passwords,Deep Thoughts on Deep Learning
+,,Smart Vehicles,Smart? Assistants
+,,Web Security IV: Defenses,Security-Adjacent Worker Perspectives
+,,ML II,Censorship and Internet Freedom
+,,Measurement IV,Machine Learning Backdoors
+,,Hardware Security II: Embedded,Integrity
+,,Client-Side Security,Fuzzing Firmware and Drivers
+,,Crypto IV: Databases & Logging,Vehicles and Security
+,,Software Forensics,Verifying Users
+,,Information Flow,DNS Security
+,,Network Security II: Infrastructure,Graphs and Security
+,,ML III,Ethereum Security
+,,Security Practitioners & Behaviors,Supply Chains and Third-Party Code
+,,Side Channels II,Cellular Networks
+,,Web Security V: Tracking,Usability and User Perspectives
+,,Crypto V: Provers & Shuffling,Entomology
+,,Security Analysis,Adversarial Examples
+,,SGX I & Side Channels III,Private Recortd Access
+,,Fuzzing III,It’s All Fun and Games Until...
+,,Crypto VI,Enclaves and Serverless Computing
+,,User Studies III: Privacy,Email and Phishing
+,,Smart Homes II,OSes and Security
+,,ML IV: Attacks,Intrusion Detection
+,,"Fuzzing, OS, and Cloud Security",Privacy Preserving Crypto Blocks
+,,"Privacy, User Behaviors, and Attacks",Warm and Fuzzing
+,,Hardware Security III,Remote Attacks
+,,OS Security & Formalisms,"Understanding Communities, Part 1"
+,,ML V: Principles & Best Practices,Keeping Computations Confidential
+,,User Studies IV: Policies & Best Practices,Towards Robust Learning
+,,SGX II,Network Cryptographic Protocols
+,,Network Security III: DDoS,Warmer and Fuzzers
+,,Zero Knowledge,Kernel Analysis
+,,Software Security,It's Academic
+,,Side Channels IV,De-anonymization and Re-identification
+,,Network Security IV,Thieves in the House
+,,ML VI: Inference,Distributed Secure Computations
+,,Criptografia e Criptoanálise I,Mobile Security and Privacy
+,,Blockchain e Criptomoeda,Web Security
+,,Segurança em IoT,"Understanding Communities, Part 2"
+,,Detecção de Intrusão e Ataques,Routing and VPNs
+,,Criptografia e Criptoanálise II,Embedded Systems and Firmware
+,,Segurança e Aprendizado de Máquina,Attacks on Cryptography
+,,Votação Eletrônica e LGPD,Cloud Insecurity
+,,Detecção de Malware em Smart Phones,More Web and Mobile Security
+,,"Análise, Modelagem e Simulação de Segurança",Networks and Security
+,,,Arming and Disarming ARM
+,,,More ML Attacks and Defenses
+,,,Cryptography for Privacy
+,,,Vulnerabilities and Threat Detection
+,,,Automated Analysis of Deployed Systems
+,,,"Manipulation, Influence, and Elections"
+,,,Side Channel Attacks
+,,,Transportation and Infrastructure
+,,,Language-based Security
+,,,Browsers
+,,,Speculation Doesn't Pay
+,,,Facing the Facts
+,,,More Hardware Side Channels
+,,,Deeper Thoughts on Deep Learning
+,,,Attacks on Deployed Cryptosystems
+,,,"Attacking, Defending, and Analyzing"
+,,,2023
+,,,Segurança em IoT e Sistemas Embarcados
+,,,Intrusão e Malware (SHORT PAPERS)
+,,,"Intrusão: Detecção, Prevenção e Resposta I"
+,,,"Criptografia e criptoanálise: Algoritmos, Protocolos e Aplicações I"
+,,,Malware
+,,,Aprendizado de Máquina e Segurança de Aplicações
+,,,"Criptografia e criptoanálise: Algoritmos, Protocolos e Aplicações (SHORT PAPERS)"
+,,,Segurança em Redes de Computadores e Redes Móveis
+,,,"Forense, Engenharia Social e Software Seguro"
+,,,"Intrusão: Detecção, Prevenção e Resposta II"
+,,,"Criptografia e criptoanálise: Algoritmos, Protocolos e Aplicações II"
+,,,Proteção de Dados e Fake News (SHORT PAPERS)
